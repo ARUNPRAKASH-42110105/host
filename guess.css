@@ -1,0 +1,59 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color:#000000;
+  margin: 10;
+  padding: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #333;
+}
+
+div {
+  background:rgb(148, 243, 255);
+  border-radius: 7px;
+  text-align: center;
+  max-width: 600px;
+  width: 100%;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+#hints {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000000;
+  margin: 15px 0px;
+}
+
+form {
+  margin-bottom: 30px;
+}
+
+input[type="number"] {
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 15px;
+
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #000000;
+  background-color: #929292;
+  border-radius: 10px;
+  cursor: pointer;
+  
+}
+
+#Attempt {
+  font-size: 20px;
+  margin-top: 15px;
+  color: #000000;
+}
